@@ -28,6 +28,9 @@ Remember to substitute the credentials file directory with yours in the script.
 
 ## Use the scrapper
 Run the script in Terminal, enter the spreadsheet name and the worksheet name.
+```sh
+- python3 update_tiktoks.py
+```
 
 ## Result Example
 ![image](https://user-images.githubusercontent.com/49832190/188074532-1ffa3149-8fc3-444d-985e-8e1ff34bdec0.png)
