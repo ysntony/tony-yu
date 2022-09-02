@@ -29,13 +29,8 @@ In the box labeled “Search for APIs and Services”, search for “Google Driv
 #### Using Service Account
 A service account is a special type of Google account intended to represent a non-human user that needs to authenticate and be authorized to access data in Google APIs.
 
-
-Here’s how to get one:
-1. Go to “APIs & Services > Credentials” and choose “Create credentials > Service account key”. Fill out the form. Click “Create” and “Done”.
-2. Press “Manage service accounts” above Service Accounts.
-3. Press on ⋮ near recently created service account and select “Manage keys” and then click on “ADD KEY > Create new key”.
-4. Select JSON key type and press “Create”. You will automatically download a JSON file with credentials.
-5. Go to your spreadsheet and share it with a client_email from the step above. Just like you do with any other Google account.
+Instruction -> https://docs.gspread.org/en/latest/oauth2.html
+YouTube Guide -> https://www.youtube.com/watch?v=bu5wXjz2KvU
 
 Remember to substitute the credentials file directory with yours in the script (update_tiktokers.py).
 
