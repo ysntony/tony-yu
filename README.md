@@ -21,8 +21,8 @@ Download Chrome Webdriver (https://chromedriver.chromium.org/downloads), put the
 
 ### Google Sheets API
 To access spreadsheets via Google Sheets API you need to authenticate and authorize your application.
-Instruction -> https://docs.gspread.org/en/latest/oauth2.html
-YouTube Guide -> https://www.youtube.com/watch?v=bu5wXjz2KvU
+- Instruction -> https://docs.gspread.org/en/latest/oauth2.html
+- YouTube Guide -> https://www.youtube.com/watch?v=bu5wXjz2KvU
 
 Remember to substitute the credentials file directory with yours in the script (update_tiktokers.py).
 
