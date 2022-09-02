@@ -29,7 +29,7 @@ Remember to substitute the credentials file directory with yours in the script.
 ## Use the scrapper
 Run the script in Terminal, enter the spreadsheet name and the worksheet name.
 ```sh
-- python3 update_tiktoks.py
+- python3 update_tiktokers.py
 ```
 
 ## Result Example
