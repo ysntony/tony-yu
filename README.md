@@ -34,7 +34,7 @@ Here’s how to get one:
 4. Select JSON key type and press “Create”. You will automatically download a JSON file with credentials.
 5. Go to your spreadsheet and share it with a client_email from the step above. Just like you do with any other Google account.
 
-Remember to substitute the file directory for the credentials json file with yours.
+Remember to substitute the credentials file directory with yours in the script (update_tiktokers.py).
 
 <!---
 yushengnan0525/yushengnan0525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
