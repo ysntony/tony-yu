@@ -1,4 +1,4 @@
-# TikTok Scraper in Python with Selenium and Google Sheets Api
+# TikTok Scraper in Python with Selenium & Google Sheets
 This is an unofficial tool for collecting TikTokers' metadata.
 
 ## Background
@@ -24,7 +24,7 @@ To access spreadsheets via Google Sheets API you need to authenticate and author
 - Instruction -> https://docs.gspread.org/en/latest/oauth2.html
 - YouTube Guide -> https://www.youtube.com/watch?v=bu5wXjz2KvU
 
-Remember to substitute the credentials file directory with yours in the script (update_tiktokers.py).
+Remember to substitute the credentials file directory with yours in the script.
 
 ## Use the scrapper
 Run the script in Terminal, enter the spreadsheet name and the worksheet name.
