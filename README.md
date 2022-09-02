@@ -8,7 +8,7 @@ This is an unofficial tool for collecting TikTokers' metadata (in this case, ave
 To start use the scrapper follow the instruction below.
 
 ### Selenium
-We're gonna use Selenium and Chrome Webdriver to auto open a web browser and visit TikTok.
+The script uses Selenium and Chrome Webdriver to auto open a web browser and visit TikTok.
 ```sh
 - pip install selenium
 ```
