@@ -14,21 +14,13 @@ We're gonna use Selenium and Chrome Webdriver to auto open a web browser and vis
 ```
 Download Chrome Webdriver (https://chromedriver.chromium.org/downloads), put the webdriver in /usr/local/bin
 
-### gspread and Google Sheets API
+### gspread
 ```sh
 - pip install gspread
 ```
+
+### Google Sheets API
 To access spreadsheets via Google Sheets API you need to authenticate and authorize your application.
-
-
-#### Enable API Access for a Project
-Head to Google Developers Console (https://console.developers.google.com/) and create a new project.
-In the box labeled “Search for APIs and Services”, search for “Google Drive API” and “Google Sheets API” and enable them.
-
-
-#### Using Service Account
-A service account is a special type of Google account intended to represent a non-human user that needs to authenticate and be authorized to access data in Google APIs.
-
 Instruction -> https://docs.gspread.org/en/latest/oauth2.html
 YouTube Guide -> https://www.youtube.com/watch?v=bu5wXjz2KvU
 
