@@ -17,7 +17,7 @@ engagement_rate = []
 engagement_rate_by_reach = []
 
 # Use my credentials
-sa = gspread.service_account(filename = "/Users/tony/Downloads/skilful-rig-361105-0ee73c40b317.json")
+sa = gspread.service_account(filename = "(enter the directory of your credentials json file here!)")
 
 # Enter the sheet's name
 user_input_spreadsheet = input("Enter the name of the Spreadsheet: ")
